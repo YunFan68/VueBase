@@ -1,0 +1,22 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "vueDemo ",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenghy/VueDemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shenghy/VueDemo/issues"
+  },
+  "homepage": "https://github.com/shenghy/VueDemo#readme"
+}
